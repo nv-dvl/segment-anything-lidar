@@ -1,3 +1,5 @@
+Update: we are waiting for the final approvals for the code release. Please stay tuned, and apologies for the delay. 
+
 # Better Call SAL: Towards Learning to Segment Anything in Lidar
 
 Accepted to European Conference on Computer Vision (ECCV), 2024
